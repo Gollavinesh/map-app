@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Map App 🗺️
 A React-based interactive map application built with React and Leaflet (or any other mapping library you're using).
 
@@ -80,3 +81,6 @@ State Management: (Redux/Context API, if applicable)
 
 Contributing 🤝
 Feel free to open issues or submit pull requests
+=======
+# map-app
+>>>>>>> 95f03495deca62226ae8006e8d1f9c0e25651f5b
